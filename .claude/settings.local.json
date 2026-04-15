@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/soggyfries/Desktop/_obsidian/claudewiki/raw/*.md)"
+    ]
+  }
+}

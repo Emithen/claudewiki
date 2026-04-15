@@ -1,0 +1,21 @@
+# .obsidian - 화이트리스트 방식
+# (기기마다 workspace-mobile.json 등 다른 파일이 생기기 때문에 전체 제외 후 필요한 것만 허용)
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+!.obsidian/plugins/
+.obsidian/plugins/**/data.json
+
+# graphify 빌드 결과물
+graphify-out/
+
+# 개인 파일
+나의 핵심 맥락.md
+
+# OS
+.DS_Store
+Thumbs.db
