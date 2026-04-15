@@ -10,6 +10,9 @@
 !.obsidian/plugins/
 .obsidian/plugins/**/data.json
 
+# 원본 노트 (로컬 보관)
+raw/
+
 # graphify 빌드 결과물
 graphify-out/
 
